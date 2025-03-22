@@ -1,0 +1,5 @@
+DB_NAME = "transcriptions"
+DB_USER = "myuser"
+DB_PASSWORD = "mypassword"
+DB_HOST = "vm2-ip"
+DB_PORT = "5432"
